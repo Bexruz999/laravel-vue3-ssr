@@ -1,6 +1,35 @@
 {
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.eot": {
+    "file": "assets/MaterialIcons-Regular-e69d687a.eot",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.eot"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.ttf": {
+    "file": "assets/MaterialIcons-Regular-29c11fa5.ttf",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.ttf"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff": {
+    "file": "assets/MaterialIcons-Regular-11ec382a.woff",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff2": {
+    "file": "assets/MaterialIcons-Regular-5743ed3d.woff2",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff2"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-0b12eaad.css",
+    "src": "resources/js/app.css"
+  },
   "resources/js/app.js": {
-    "file": "assets/app-7875576e.js",
+    "assets": [
+      "assets/MaterialIcons-Regular-e69d687a.eot",
+      "assets/MaterialIcons-Regular-5743ed3d.woff2",
+      "assets/MaterialIcons-Regular-11ec382a.woff",
+      "assets/MaterialIcons-Regular-29c11fa5.ttf"
+    ],
+    "css": [
+      "assets/app-0b12eaad.css"
+    ],
+    "file": "assets/app-a600cf8d.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }

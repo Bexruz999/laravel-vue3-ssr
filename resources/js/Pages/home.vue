@@ -1,12 +1,10 @@
-<script>
-import {defineComponent} from 'vue'
+<script setup>
 
-export default defineComponent({})
+const chip = true;
 </script>
 
 <template>
-<h1>home</h1>
+    <v-btn>Button</v-btn>
 
-    <p>test</p>
 </template>
 
